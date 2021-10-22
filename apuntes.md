@@ -1,5 +1,6 @@
 # Convivencia online 2021 de supernumerarias
-+ URL del sitio: https://convivencia-2021.netlify.app
++ URL del sitio en Netlify: https://convivencia-2021.netlify.app
++ URL del sitio en GitHub: https://petrix12.github.io/convivencia2021
 + URL del repositorio: https://github.com/petrix12/convivencia2021.git
 
 ## Crear repositorio GitHub
